@@ -29,7 +29,7 @@ Meu objetivo é contribuir como desenvolvedor Front-end e/ou Back-end, priorizan
 Acesse o meu [portfólio 🌐](https://mts-pac.github.io/portfolio-nuxtjs/).
 
 
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mts-pac&theme=blue-green)]
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mts-pac)
 <!--
 **mts-pac/mts-pac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
