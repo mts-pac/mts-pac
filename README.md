@@ -26,7 +26,7 @@ Apaixonado por desafios e soluções inovadoras. Com experiência de 4 anos em p
 Meu objetivo é contribuir como desenvolvedor Front-end e/ou Back-end, priorizando a qualidade e arquitetura de software. Estou sempre em busca de aprender e implementar soluções criativas e ficarei feliz em colaborar em seu próximo projeto.
 
 
-Acesse o meu [portfólio 🌐](https://mts-pac.github.io/portfolio-nuxtjs/).
+Acesse o meu [portfólio 🌐](https://mts-pac.github.io/portfolio-nuxtjs/){:target="_blank"}..
 
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mts-pac)
