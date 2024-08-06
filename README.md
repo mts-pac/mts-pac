@@ -30,6 +30,12 @@ Acesse o meu [portfólio 🌐](https://mts-pac.github.io/portfolio-nuxtjs/).
 
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mts-pac)
+
+
+## Repositórios:
+
+- **[DDD](https://github.com/mts-pac/ddd)**: projeto typescript com o uso de Domain Driven Design (DDD), testes automatizados com swc e jest.
+- **[Portfólio Nuxt.js](https://github.com/mts-pac/portfolio-nuxtjs)**: portfólio feito em Nuxt.js com o uso de tailwind, fontawesome e outros.
 <!--
 **mts-pac/mts-pac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
