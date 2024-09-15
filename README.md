@@ -29,10 +29,8 @@ Meu objetivo é contribuir como desenvolvedor Front-end e/ou Back-end, priorizan
 Acesse o meu [portfólio 🌐](https://mts-pac.github.io/portfolio-nuxtjs/).
 
 
-| ![FullcycleDeveloper With Title](https://github.com/user-attachments/assets/523b7606-f5c0-4752-b4b1-1363728d3e27) | ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mts-pac) | 
+| ![FullcycleDeveloper With Title](https://github.com/user-attachments/assets/2a290147-a8ca-4ee7-9459-0a564e1ac0ca) | ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mts-pac) | 
 | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-
-
 
 ## Repositórios:
 
